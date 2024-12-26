@@ -19,5 +19,5 @@ def solution(lines: list[str]):
     print(total_potions)
 
 
-lines = read_input_file(file_path="input.txt")
+lines = read_input_file(file_path="input_1.txt")
 solution(lines)
